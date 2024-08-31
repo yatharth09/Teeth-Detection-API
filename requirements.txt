@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pydantic==1.10.8
+ultralytics
+opencv-python-headless==4.5.5.64
+numpy==1.23.5
+omegaconf==2.3.0
+#inference
